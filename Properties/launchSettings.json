@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "QuadraticEquationCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7132"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 34061,
+      "useSSL": false
+    }
+  }
+}
